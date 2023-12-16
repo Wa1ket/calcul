@@ -1,0 +1,14 @@
+A:\progs\calcul\calcul\bin\Debug\calcul.exe.config
+A:\progs\calcul\calcul\bin\Debug\calcul.exe
+A:\progs\calcul\calcul\bin\Debug\calcul.pdb
+A:\progs\calcul\calcul\obj\Debug\calcul.csproj.AssemblyReference.cache
+A:\progs\calcul\calcul\obj\Debug\MainWindow.baml
+A:\progs\calcul\calcul\obj\Debug\MainWindow.g.cs
+A:\progs\calcul\calcul\obj\Debug\App.g.cs
+A:\progs\calcul\calcul\obj\Debug\calcul_MarkupCompile.cache
+A:\progs\calcul\calcul\obj\Debug\calcul.g.resources
+A:\progs\calcul\calcul\obj\Debug\calcul.Properties.Resources.resources
+A:\progs\calcul\calcul\obj\Debug\calcul.csproj.GenerateResource.cache
+A:\progs\calcul\calcul\obj\Debug\calcul.csproj.CoreCompileInputs.cache
+A:\progs\calcul\calcul\obj\Debug\calcul.exe
+A:\progs\calcul\calcul\obj\Debug\calcul.pdb
